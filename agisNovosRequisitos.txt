@@ -1,0 +1,19 @@
+REQUISITOS SECRETÁRIA
+- RF montar grade
+- RF manter disciplinas
+- RF manter cursos
+- RF manter professores
+- RF inserir datas no caléndario
+- RF matricular aluno
+- RF visualizar aluno
+
+----- Não tem ainda
+- RF vizualizar solicitações
+- RF dispenar aluno
+- RF vizualizar histórico do aluno
+
+REQUISITOS PROFESSOES
+- RF realizar chamada
+- RF ter possibilidade de alter a chamada
+
+

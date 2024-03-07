@@ -1,0 +1,4 @@
+Verificar o pagespeed insights para comprovar a eficacia
+
+- reformular o desing da grade
+- refazer o sistema de montar grade
