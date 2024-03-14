@@ -14,6 +14,10 @@ REQUISITOS SECRETÁRIA
 
 REQUISITOS PROFESSOES
 - RF realizar chamada
-- RF ter possibilidade de alter a chamada
+- RF alterar a chamada
+- RF inserir planejamento
+- RF definir critério avaliativo
+- RF inserir notas
+- RF definir datas da prova
 
 
