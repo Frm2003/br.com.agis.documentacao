@@ -1,0 +1,59 @@
+SECRETARO
+/aluno - get
+/aluno/{ra} - get
+/aluno - post
+/aluno/{ra} - put
+/aluno/{ra} - delete
+/aluno/{ra} - patch
+
+/cursos - get
+/cursos/{cod} - get
+/cursos - post
+/cursos/{cod} - put
+/cursos/{cod} - delete
+
+/datas/{desc} - get
+/data - post
+/datas/{data} - put
+/datas/{data} - delete
+
+/disciplinas - get
+/disciplinas/{cod} - get
+/disciplinas/curso/{cod} - get
+/disciplinas - post
+/disciplinas/{cod} - put
+/disciplinas/{cod} - delete
+
+/grades - get
+/grades/{cod} - get
+/grades - post
+
+/matricula/aluno/{ra}
+
+/professores - get
+/professores/{cod} - get
+/professores - post
+/professores/{cod} - put
+/professores/{cod} - delete
+/professores/{cod} - patch
+
+/turmas/grade/{cod} - get
+/turmas/{cod} - get
+/turmas - post
+/turmas/{cod} - put
+/turmas/{cod} - delete
+
+PROFESSOR
+/chamada/{cod}/{data} - get
+/chamada/verificacao/{cod}/{data} - get
+/chamada = post
+
+/matricula/turma/{ra} - get
+
+/turmas/professor/{cod} - get 
+/turmas/{cod}/{metodo} = patch
+
+GERAL
+/datas - get
+/professores/login
+/secretarios/login
